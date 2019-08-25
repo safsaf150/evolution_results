@@ -1,0 +1,210 @@
+plane displacement_velocity_hill ini avg  0.0014679845254219
+plane displacement_velocity_hill fin avg  0.0459244962732972
+plane iniVSfin displacement_velocity_hill wilcox p:  0
+plane iniVSfin displacement_velocity_hill wilcox est:  0
+plane displacement_velocity_hill  Mann-Kendall median p 0
+plane displacement_velocity_hill  Mann-Kendall median s 12.7195
+plane head_balance ini avg  0.942151467193487
+plane head_balance fin avg  0.73589416624983
+plane iniVSfin head_balance wilcox p:  0.0056
+plane iniVSfin head_balance wilcox est:  71
+plane head_balance  Mann-Kendall median p 0
+plane head_balance  Mann-Kendall median s -8.5144
+plane contacts ini avg  0
+plane contacts fin avg  1.30051805611265
+plane iniVSfin contacts wilcox p:  6e-04
+plane iniVSfin contacts wilcox est:  4.5
+plane contacts  Mann-Kendall median p 0
+plane contacts  Mann-Kendall median s 8.3397
+plane displacement_velocity ini avg  0.00287576846944006
+plane displacement_velocity fin avg  0.0475628529942794
+plane iniVSfin displacement_velocity wilcox p:  0
+plane iniVSfin displacement_velocity wilcox est:  0
+plane displacement_velocity  Mann-Kendall median p 0
+plane displacement_velocity  Mann-Kendall median s 12.5766
+plane branching ini avg  0.0203064373897707
+plane branching fin avg  0
+plane iniVSfin branching wilcox p:  2e-04
+plane iniVSfin branching wilcox est:  81
+plane branching  Mann-Kendall median p 0
+plane branching  Mann-Kendall median s -6.9175
+plane branching_modules_count ini avg  0.0588888888888889
+plane branching_modules_count fin avg  0
+plane iniVSfin branching_modules_count wilcox p:  2e-04
+plane iniVSfin branching_modules_count wilcox est:  81
+plane branching_modules_count  Mann-Kendall median p 0
+plane branching_modules_count  Mann-Kendall median s -6.8639
+plane limbs ini avg  0.380837999450702
+plane limbs fin avg  0.0824772364001547
+plane iniVSfin limbs wilcox p:  0
+plane iniVSfin limbs wilcox est:  81
+plane limbs  Mann-Kendall median p 0
+plane limbs  Mann-Kendall median s -10.0125
+plane extremities ini avg  1.78
+plane extremities fin avg  1.11333333333333
+plane iniVSfin extremities wilcox p:  0.0048
+plane iniVSfin extremities wilcox est:  72
+plane extremities  Mann-Kendall median p 0
+plane extremities  Mann-Kendall median s -9.0316
+plane length_of_limbs ini avg  0.712630150633673
+plane length_of_limbs fin avg  0.988615364167996
+plane iniVSfin length_of_limbs wilcox p:  3e-04
+plane iniVSfin length_of_limbs wilcox est:  0
+plane length_of_limbs  Mann-Kendall median p 0
+plane length_of_limbs  Mann-Kendall median s 9.1316
+plane extensiveness ini avg  6.19666666666667
+plane extensiveness fin avg  20.0766666666667
+plane iniVSfin extensiveness wilcox p:  0
+plane iniVSfin extensiveness wilcox est:  0
+plane extensiveness  Mann-Kendall median p 0
+plane extensiveness  Mann-Kendall median s 7.8835
+plane coverage ini avg  0.70854732723972
+plane coverage fin avg  0.878237339552557
+plane iniVSfin coverage wilcox p:  0.0496
+plane iniVSfin coverage wilcox est:  18
+plane coverage  Mann-Kendall median p 0
+plane coverage  Mann-Kendall median s 11.012
+plane joints ini avg  0.520402782211439
+plane joints fin avg  0.949884977747827
+plane iniVSfin joints wilcox p:  4e-04
+plane iniVSfin joints wilcox est:  0
+plane joints  Mann-Kendall median p 0
+plane joints  Mann-Kendall median s 10.3658
+plane hinge_count ini avg  5.87
+plane hinge_count fin avg  20.4533333333333
+plane iniVSfin hinge_count wilcox p:  0
+plane iniVSfin hinge_count wilcox est:  0
+plane hinge_count  Mann-Kendall median p 0
+plane hinge_count  Mann-Kendall median s 4.7628
+plane active_hinges_count ini avg  4.69333333333333
+plane active_hinges_count fin avg  19.34
+plane iniVSfin active_hinges_count wilcox p:  0
+plane iniVSfin active_hinges_count wilcox est:  0
+plane active_hinges_count  Mann-Kendall median p 0
+plane active_hinges_count  Mann-Kendall median s 4.718
+plane brick_count ini avg  2.58555555555556
+plane brick_count fin avg  0.85
+plane iniVSfin brick_count wilcox p:  0.0059
+plane iniVSfin brick_count wilcox est:  72
+plane brick_count  Mann-Kendall median p 0
+plane brick_count  Mann-Kendall median s -8.3865
+plane touch_sensor_count ini avg  1.27222222222222
+plane touch_sensor_count fin avg  0.333333333333333
+plane iniVSfin touch_sensor_count wilcox p:  9e-04
+plane iniVSfin touch_sensor_count wilcox est:  78
+plane touch_sensor_count  Mann-Kendall median p 0
+plane touch_sensor_count  Mann-Kendall median s -10.7748
+plane brick_sensor_count ini avg  0
+plane brick_sensor_count fin avg  0
+plane iniVSfin brick_sensor_count wilcox p:  NaN
+plane iniVSfin brick_sensor_count wilcox est:  40.5
+plane brick_sensor_count  Mann-Kendall median p NaN
+plane brick_sensor_count  Mann-Kendall median s NaN
+plane proportion ini avg  0.520629576220964
+plane proportion fin avg  0.0792978875730646
+plane iniVSfin proportion wilcox p:  0
+plane iniVSfin proportion wilcox est:  81
+plane proportion  Mann-Kendall median p 0
+plane proportion  Mann-Kendall median s -8.7946
+plane width ini avg  4.63888888888889
+plane width fin avg  7.61333333333333
+plane iniVSfin width wilcox p:  0.2461
+plane iniVSfin width wilcox est:  54
+plane width  Mann-Kendall median p 0
+plane width  Mann-Kendall median s -8.9286
+plane height ini avg  4.51666666666667
+plane height fin avg  15.6877777777778
+plane iniVSfin height wilcox p:  0.2581
+plane iniVSfin height wilcox est:  27
+plane height  Mann-Kendall median p 0
+plane height  Mann-Kendall median s 9.8289
+plane absolute_size ini avg  9.45555555555556
+plane absolute_size fin avg  22.3033333333333
+plane iniVSfin absolute_size wilcox p:  0
+plane iniVSfin absolute_size wilcox est:  0
+plane absolute_size  Mann-Kendall median p 0
+plane absolute_size  Mann-Kendall median s 9.6105
+plane sensors ini avg  0.175675685168818
+plane sensors fin avg  0.0922751322751321
+plane iniVSfin sensors wilcox p:  0.0875
+plane iniVSfin sensors wilcox est:  60
+plane sensors  Mann-Kendall median p 0
+plane sensors  Mann-Kendall median s -9.9925
+plane symmetry ini avg  0.118174531297601
+plane symmetry fin avg  0
+plane iniVSfin symmetry wilcox p:  2e-04
+plane iniVSfin symmetry wilcox est:  81
+plane symmetry  Mann-Kendall median p 0
+plane symmetry  Mann-Kendall median s -7.9479
+plane avg_period ini avg  0.434995733771735
+plane avg_period fin avg  0.565073279874721
+plane iniVSfin avg_period wilcox p:  0.0056
+plane iniVSfin avg_period wilcox est:  10
+plane avg_period  Mann-Kendall median p 0.0844
+plane avg_period  Mann-Kendall median s -1.7259
+plane dev_period ini avg  0.641263487968305
+plane dev_period fin avg  0.830503672794836
+plane iniVSfin dev_period wilcox p:  0.004
+plane iniVSfin dev_period wilcox est:  9
+plane dev_period  Mann-Kendall median p 0
+plane dev_period  Mann-Kendall median s 4.6608
+plane avg_phase_offset ini avg  0.424232188522525
+plane avg_phase_offset fin avg  0.685616782290523
+plane iniVSfin avg_phase_offset wilcox p:  0.0019
+plane iniVSfin avg_phase_offset wilcox est:  7
+plane avg_phase_offset  Mann-Kendall median p 0
+plane avg_phase_offset  Mann-Kendall median s 10.8516
+plane dev_phase_offset ini avg  0.640135805458656
+plane dev_phase_offset fin avg  0.888945621971753
+plane iniVSfin dev_phase_offset wilcox p:  0
+plane iniVSfin dev_phase_offset wilcox est:  0
+plane dev_phase_offset  Mann-Kendall median p 0
+plane dev_phase_offset  Mann-Kendall median s 7.1981
+plane avg_amplitude ini avg  0.437377728551173
+plane avg_amplitude fin avg  0.579171794249569
+plane iniVSfin avg_amplitude wilcox p:  0.0078
+plane iniVSfin avg_amplitude wilcox est:  11
+plane avg_amplitude  Mann-Kendall median p 0.0055
+plane avg_amplitude  Mann-Kendall median s 2.7743
+plane dev_amplitude ini avg  0.635319236835574
+plane dev_amplitude fin avg  0.868232699549084
+plane iniVSfin dev_amplitude wilcox p:  0
+plane iniVSfin dev_amplitude wilcox est:  0
+plane dev_amplitude  Mann-Kendall median p 0.0011
+plane dev_amplitude  Mann-Kendall median s -3.273
+plane avg_intra_dev_params ini avg  0.667867782149908
+plane avg_intra_dev_params fin avg  0.86216012633277
+plane iniVSfin avg_intra_dev_params wilcox p:  0
+plane iniVSfin avg_intra_dev_params wilcox est:  0
+plane avg_intra_dev_params  Mann-Kendall median p 0
+plane avg_intra_dev_params  Mann-Kendall median s 7.9573
+plane avg_inter_dev_params ini avg  0.649172345336504
+plane avg_inter_dev_params fin avg  0.873134463639996
+plane iniVSfin avg_inter_dev_params wilcox p:  0
+plane iniVSfin avg_inter_dev_params wilcox est:  0
+plane avg_inter_dev_params  Mann-Kendall median p 0
+plane avg_inter_dev_params  Mann-Kendall median s 6.2662
+plane sensors_reach ini avg  0.313239862980253
+plane sensors_reach fin avg  0.331701388888889
+plane iniVSfin sensors_reach wilcox p:  0.2423
+plane iniVSfin sensors_reach wilcox est:  54
+plane sensors_reach  Mann-Kendall median p 0
+plane sensors_reach  Mann-Kendall median s -8.9515
+plane recurrence ini avg  0.119681528730779
+plane recurrence fin avg  0.0398244284131063
+plane iniVSfin recurrence wilcox p:  0.0091
+plane iniVSfin recurrence wilcox est:  70
+plane recurrence  Mann-Kendall median p 0
+plane recurrence  Mann-Kendall median s -12.2167
+plane synaptic_reception ini avg  0.0129192313509262
+plane synaptic_reception fin avg  0
+plane iniVSfin synaptic_reception wilcox p:  6e-04
+plane iniVSfin synaptic_reception wilcox est:  76.5
+plane synaptic_reception  Mann-Kendall median p 0
+plane synaptic_reception  Mann-Kendall median s -4.4942
+plane fitness ini avg  0.00165085584147506
+plane fitness fin avg  0.0459250886740555
+plane iniVSfin fitness wilcox p:  0
+plane iniVSfin fitness wilcox est:  0
+plane fitness  Mann-Kendall median p 0
+plane fitness  Mann-Kendall median s 12.7195
