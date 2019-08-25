@@ -96,6 +96,8 @@ for gens in [30,35,40]:
     plt.plot(o_avg_speed_in_cm)
     plt.xlabel('Generation')
     plt.ylabel('Learned Speed (cm/s)')
+    plt.ylim(0, 2.5)
+    
     plt.savefig(f'learned_avg_speed_gen_{gens}.png', bbox_inches='tight')
     plt.clf()    
     
@@ -104,7 +106,7 @@ for gens in [30,35,40]:
     #plt.plot(no_l_evo_speed_cm, color='green')
     plt.xlabel('Generation')
     plt.ylabel('Speed (cm/s)')
-    plt.ylim(0, max_y)
+    plt.ylim(0, 15)
     #plt.legend(['origin', 'learned'], loc='lower right')
     #plt.show()
     plt.savefig(f'comp_avg_speed_gen_{gens}.png', bbox_inches='tight')
@@ -114,8 +116,9 @@ for gens in [30,35,40]:
     plt.plot(l_avg_best_speed_in_cm, color='red')
     plt.xlabel('Generation')
     plt.ylabel('Speed (cm/s)')
-    plt.ylim(0, max_y)
+    plt.ylim(0, 15)
     #plt.legend(['origin', 'learned'], loc='lower right')
     #plt.show()
     plt.savefig(f'comp_avg_best_speed_gen_{gens}.png', bbox_inches='tight')
     plt.clf()
+
