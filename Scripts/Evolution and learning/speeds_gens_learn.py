@@ -93,7 +93,7 @@ for gens in [30,35,40]:
     
     learned_speed = [l-o for o,l in zip(o_avg_speed_in_cm, l_avg_speed_in_cm)]
     
-    plt.plot(o_avg_speed_in_cm)
+    plt.plot(learned_speed)
     plt.xlabel('Generation')
     plt.ylabel('Learned Speed (cm/s)')
     plt.ylim(0, 2.5)
